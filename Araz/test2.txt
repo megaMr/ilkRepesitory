@@ -1,2 +1,4 @@
 Axirda yaradildi
 sonra ISE editlendi
+
+buda son!
