@@ -1,1 +1,2 @@
 Axirda yaradildi
+sonra ISE editlendi
